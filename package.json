@@ -1,9 +1,0 @@
-{
-  "name": "davemanuj-mario-portfolio",
-  "version": "1.0.0",
-  "private": true,
-  "description": "Mario-themed portfolio with a lightweight Node backend",
-  "scripts": {
-    "start": "node server.js"
-  }
-}
