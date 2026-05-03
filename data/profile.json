@@ -1,0 +1,112 @@
+{
+  "hero": {
+    "title": "Mario energy. Game-dev discipline. Indie systems that actually ship.",
+    "text": "I'm DAVEMANUJ, a full-stack indie developer building playful software across Unity, Python, Java, and the web. I care about game feel, readable architecture, and interfaces that move with intent.",
+    "bio": "I design portfolios like levels: clear goal, visible reward, low friction. My work usually sits where systems design, animation, and practical shipping overlap. If it feels fun but still reads like production software, that's the target.",
+    "footer": "Open-source games, animated tools, frontend systems, and software with game feel."
+  },
+  "stats": [
+    {
+      "name": "YEARS FOCUS",
+      "copy": "12+ years tuning games, UX, and code loops.",
+      "tag": "solo builder"
+    },
+    {
+      "name": "PLATFORMS",
+      "copy": "PC, Web, Android, gameplay-minded interfaces.",
+      "tag": "multi-platform"
+    },
+    {
+      "name": "SPECIALTY",
+      "copy": "Frontend motion, game feel, Unity systems.",
+      "tag": "interaction-first"
+    },
+    {
+      "name": "AI TOOLING",
+      "copy": "Useful NLP and automation, not decorative hype.",
+      "tag": "practical stack"
+    }
+  ],
+  "projects": [
+    {
+      "name": "TYPESTRIKE",
+      "copy": "Typing arcade shooter with escalating chaos and real score pressure.",
+      "tech": "Unity 6 / C#",
+      "href": "https://github.com/DAVEMANUJ/TypeStrike"
+    },
+    {
+      "name": "ANICAST",
+      "copy": "Pixel weather pet widget reacting to live conditions on Android.",
+      "tech": "Java / Android",
+      "href": "https://github.com/DAVEMANUJ/Anicast"
+    },
+    {
+      "name": "SKILLGENOME",
+      "copy": "AI roadmap app that turns resumes and GitHub data into learning paths.",
+      "tech": "Python / React",
+      "href": "https://github.com/DAVEMANUJ/skill-genome-2"
+    },
+    {
+      "name": "SWIFTSTUDY",
+      "copy": "Gamified flashcards designed around momentum, streaks, and quick sessions.",
+      "tech": "Android / UX",
+      "href": "https://github.com/DAVEMANUJ"
+    }
+  ],
+  "philosophy": [
+    "Game feel first. Response and rhythm matter more than decorative clutter.",
+    "Full-stack without filler. Frontend, backend, and data should reinforce each other.",
+    "Prototype fast, polish hard, ship what earns its place."
+  ],
+  "skills": [
+    [
+      "UNITY / GAMEPLAY",
+      92
+    ],
+    [
+      "PYTHON / TOOLS / AI",
+      88
+    ],
+    [
+      "FRONTEND / MOTION UI",
+      84
+    ],
+    [
+      "ANDROID / JAVA",
+      79
+    ],
+    [
+      "SYSTEMS / DESIGN THINKING",
+      90
+    ]
+  ],
+  "loadout": [
+    {
+      "name": "ENGINES",
+      "copy": "Unity 6, TextMeshPro, 2D interaction loops, arcade pacing.",
+      "tag": "feel / iteration / polish"
+    },
+    {
+      "name": "LANGUAGES",
+      "copy": "C#, Python, Java, TypeScript, SQL, practical tooling around them.",
+      "tag": "systems / scripting / apps"
+    },
+    {
+      "name": "WEB",
+      "copy": "Responsive UI, animation logic, dashboards, portfolio and product surfaces.",
+      "tag": "html / css / js / react"
+    },
+    {
+      "name": "AI + DATA",
+      "copy": "spaCy, KeyBERT, transformers, document parsing, roadmap generation.",
+      "tag": "useful intelligence"
+    }
+  ],
+  "terminal": [
+    "boot portfolio --profile DAVEMANUJ",
+    "connect api --mode live",
+    "load world --project-blocks mario",
+    "mount runner --route projects",
+    "status: READY TO SHIP"
+  ]
+}
