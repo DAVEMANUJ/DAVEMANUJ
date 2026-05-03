@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="./assets/game-header.svg" alt="DAVEMANUJ neon backend swordsman banner" width="100%">
+  <img src="./assets/game-header.svg" alt="DAVEMANUJ name banner" width="100%">
+</p>
+
+<p align="center">
+  <img src="./giphy.gif" alt="Animated header loop" width="78%">
 </p>
 
 <h1 align="center">DAVEMANUJ</h1>
