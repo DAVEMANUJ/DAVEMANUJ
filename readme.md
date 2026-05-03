@@ -1,128 +1,129 @@
 <p align="center">
-  <img src="./assets/game-header.svg" alt="DAVEMANUJ active game dev dashboard banner" width="100%">
+  <img src="./assets/game-header.svg" alt="DAVEMANUJ game developer banner" width="100%">
 </p>
 
 <h1 align="center">DAVEMANUJ</h1>
-<p align="center"><strong>Active Game-Dev Dashboard</strong></p>
 <p align="center"><strong>Indie Game Developer • Frontend Engineer • Systems Builder</strong></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ENGINE-Unity%206-111827?style=for-the-badge&logo=unity&logoColor=white" alt="Unity 6">
-  <img src="https://img.shields.io/badge/FRONTEND-Motion%20Systems-0ea5e9?style=for-the-badge" alt="Motion Systems">
+  <img src="https://img.shields.io/badge/ENGINE-Unity%206-black?style=for-the-badge&logo=unity&logoColor=white" alt="Unity 6">
+  <img src="https://img.shields.io/badge/STYLE-Arcade%20%2F%20Anime--Tech-2563eb?style=for-the-badge" alt="Arcade Style">
   <img src="https://img.shields.io/badge/FOCUS-Game%20Feel-e11d48?style=for-the-badge" alt="Game Feel">
-  <img src="https://img.shields.io/badge/STATE-ONLINE-0891b2?style=for-the-badge" alt="Online">
+  <img src="https://img.shields.io/badge/STACK-Full--Stack-0f766e?style=for-the-badge" alt="Full Stack">
 </p>
 
-## 🕹️ Player HUD
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=unity,cs,python,java,js,ts,react,html,css,nodejs,flask,sqlite,git,vscode" alt="Core tools and languages">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GAMEPLAY-Systems-111827?style=flat-square&logo=gamemaker&logoColor=white" alt="Gameplay Systems">
+  <img src="https://img.shields.io/badge/FRONTEND-Motion%20UI-0ea5e9?style=flat-square&logo=react&logoColor=white" alt="Frontend Motion UI">
+  <img src="https://img.shields.io/badge/BACKEND-Tools-16a34a?style=flat-square&logo=nodedotjs&logoColor=white" alt="Backend Tools">
+  <img src="https://img.shields.io/badge/AI-Practical-f97316?style=flat-square&logo=openai&logoColor=white" alt="Practical AI">
+  <img src="https://img.shields.io/badge/ANDROID-Java-ef4444?style=flat-square&logo=android&logoColor=white" alt="Android Java">
+  <img src="https://img.shields.io/badge/UX-Game%20Feel-a21caf?style=flat-square" alt="UX Game Feel">
+</p>
 
 ```text
-┌────────────────────────────────────────────────────────────┐
-│ PLAYER ID      :: DAVEMANUJ                               │
-│ CLASS          :: Indie Builder / Game Dev / Frontend Eng │
-│ CORE SPEC      :: Gameplay Systems / Motion UI / Tools    │
-│ ACTIVE MISSION :: Build things that feel alive            │
-└────────────────────────────────────────────────────────────┘
+╔════════════════════════════════════════════════════════════╗
+║ PLAYER PROFILE                                             ║
+╠════════════════════════════════════════════════════════════╣
+║ NAME      :: DAVEMANUJ                                     ║
+║ CLASS     :: Indie Builder / Game Dev / Frontend Engineer  ║
+║ STYLE     :: Game-first polish + clean execution           ║
+║ SPECIAL   :: Game feel / motion UI / practical systems     ║
+║ MISSION   :: Build things that look alive and play well    ║
+╚════════════════════════════════════════════════════════════╝
 ```
 
-**Player Stats**  
-`[LVL: 12] [STREAK: 14 DAYS] [REPOS: 6] [ENGINE: UNITY 6]`
+## About
 
-```text
-SYSTEM INTENT
-◉ Gameplay logic with rhythm and clarity
-◉ Frontend systems with motion, contrast, and personality
-◉ Tools that solve real problems instead of demoing hype
-◉ Software that borrows pacing and feedback from games
-```
+I like products that move with intent.
 
-## ⚙️ Quest Log
+That usually means:
 
-| Quest | Engine | Status |
-| :--- | :--- | :--- |
-| [TypeStrike](https://github.com/DAVEMANUJ/TypeStrike) | Unity | `[ACTIVE]` |
-| [AniCast](https://github.com/DAVEMANUJ/Anicast) | Android | `[POLISHING]` |
-| [SkillGenome](https://github.com/DAVEMANUJ/skill-genome-2) | Python + React | `[ONLINE]` |
-| [SwiftStudy](https://github.com/DAVEMANUJ) | Android | `[IN LOOP]` |
+- gameplay logic with rhythm and clarity
+- frontend work with motion, contrast, and personality
+- tools that solve real problems instead of demoing hype
+- software that borrows pacing and feedback from games
 
-```text
-QUEST BRIEFS
-TYPESTRIKE  :: Typing arcade shooter with escalating pace, score pressure, and combat rhythm.
-ANICAST     :: Animated Android weather companion with live-condition behavior changes.
-SKILLGENOME :: AI roadmap system that turns resumes and GitHub data into growth paths.
-SWIFTSTUDY  :: Gamified study app built around momentum, short loops, and repeatability.
-```
+## Main Quests
 
-## ⚙️ Skill Tree
+### TypeStrike
+Typing arcade shooter built in Unity with escalating pace, score pressure, and satisfying combat rhythm.
+
+### AniCast
+Animated Android weather companion where character behavior shifts with live weather conditions.
+
+### SkillGenome
+AI-powered skill analysis and roadmap builder that turns resumes and GitHub data into structured growth paths.
+
+### SwiftStudy
+Gamified study app designed around momentum, fast loops, and repeatable progression.
+
+## Loadout
 
 ### Game Dev
 
-```text
-Unity 6            [███████████▓] 92%
-C#                 [██████████▓░] 85%
-TextMeshPro        [█████████▓░░] 80%
-Gameplay Systems   [██████████▓░] 87%
-UI Tuning          [██████████░░] 82%
-```
+<p>
+  <img src="https://img.shields.io/badge/Unity%206-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity 6">
+  <img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/TextMeshPro-2563eb?style=for-the-badge" alt="TextMeshPro">
+  <img src="https://img.shields.io/badge/Gameplay%20Scripting-111827?style=for-the-badge" alt="Gameplay Scripting">
+  <img src="https://img.shields.io/badge/UI%20Tuning-e11d48?style=for-the-badge" alt="UI Tuning">
+</p>
 
-### Frontend Systems
+### Frontend
 
-```text
-HTML               [██████████▓░] 88%
-CSS                [██████████▓░] 86%
-JavaScript         [█████████▓░░] 81%
-React              [████████▓░░░] 76%
-TypeScript         [███████▓░░░░] 71%
-Motion UI          [██████████▓░] 84%
-```
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827" alt="JavaScript">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=111827" alt="React">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Motion%20UI-06b6d4?style=for-the-badge" alt="Motion UI">
+</p>
 
 ### Backend and Tools
 
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Flask-111827?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
+  <img src="https://img.shields.io/badge/Node-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node">
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell">
+</p>
+
+### AI and Data
+
+<p>
+  <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge" alt="spaCy">
+  <img src="https://img.shields.io/badge/KeyBERT-7c3aed?style=for-the-badge" alt="KeyBERT">
+  <img src="https://img.shields.io/badge/Sentence%20Transformers-f43f5e?style=for-the-badge" alt="Sentence Transformers">
+  <img src="https://img.shields.io/badge/Document%20Parsing-0f766e?style=for-the-badge" alt="Document Parsing">
+  <img src="https://img.shields.io/badge/Roadmap%20Generation-f59e0b?style=for-the-badge" alt="Roadmap Generation">
+</p>
+
+## Dev Philosophy
+
 ```text
-Python             [██████████▓░] 85%
-Flask              [███████▓░░░░] 68%
-Node               [██████▓░░░░░] 60%
-SQLite             [██████▓░░░░░] 58%
-Java               [████████▓░░░] 73%
-PowerShell         [█████▓░░░░░░] 55%
+> prototype fast
+> polish hard
+> keep systems readable
+> make feedback immediate
+> ship useful work with style
 ```
 
-### AI and Data Systems
-
-```text
-spaCy              [████████▓░░░] 72%
-KeyBERT            [██████▓░░░░░] 60%
-SentenceTrans      [██████▓░░░░░] 62%
-Doc Parsing        [████████▓░░░] 74%
-Roadmap Systems    [███████▓░░░░] 66%
-```
-
-## 🕹️ Systems Doctrine
-
-```text
-[RULE_01] Prototype fast
-[RULE_02] Polish hard
-[RULE_03] Keep systems readable
-[RULE_04] Make feedback immediate
-[RULE_05] Ship useful work with style
-```
-
-## ⚙️ Status Screen
+## Status Screen
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DAVEMANUJ&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DAVEMANUJ&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages">
 </p>
 
-## 📡 Console Boot
-
-```text
-[SYSTEM] Initializing DAVEMANUJ_OS v1.0...
-[SYSTEM] Loading 'TypeStrike' assets...
-[SYSTEM] Connection status: ONLINE
-[CONSOLE] Awaiting player input...
-```
-
-## 📡 System Links
+## Connect
 
 - GitHub: https://github.com/DAVEMANUJ
 - Repositories: https://github.com/DAVEMANUJ?tab=repositories
