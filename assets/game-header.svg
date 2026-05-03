@@ -1,78 +1,79 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" role="img" aria-label="DAVEMANUJ game developer banner">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" role="img" aria-label="DAVEMANUJ neon backend swordsman banner">
   <defs>
     <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
-      <stop offset="0%" stop-color="#081120"/>
-      <stop offset="50%" stop-color="#132b52"/>
-      <stop offset="100%" stop-color="#25103d"/>
+      <stop offset="0%" stop-color="#050816"/>
+      <stop offset="50%" stop-color="#0c1c3f"/>
+      <stop offset="100%" stop-color="#240b33"/>
     </linearGradient>
-    <linearGradient id="gridGlow" x1="0" x2="0" y1="0" y2="1">
-      <stop offset="0%" stop-color="#6ee7ff" stop-opacity=".7"/>
-      <stop offset="100%" stop-color="#6ee7ff" stop-opacity="0"/>
+    <linearGradient id="title" x1="0" x2="1">
+      <stop offset="0%" stop-color="#fff"/>
+      <stop offset="45%" stop-color="#7dd3fc"/>
+      <stop offset="100%" stop-color="#f472b6"/>
     </linearGradient>
-    <linearGradient id="titleGlow" x1="0" x2="1">
-      <stop offset="0%" stop-color="#ffffff"/>
-      <stop offset="50%" stop-color="#8be9ff"/>
-      <stop offset="100%" stop-color="#ff87c5"/>
+    <linearGradient id="blade" x1="0" x2="1">
+      <stop offset="0%" stop-color="#67e8f9"/>
+      <stop offset="50%" stop-color="#60a5fa"/>
+      <stop offset="100%" stop-color="#f472b6"/>
     </linearGradient>
-    <filter id="soft" x="-20%" y="-20%" width="140%" height="140%">
-      <feDropShadow dx="0" dy="10" stdDeviation="12" flood-color="#020617" flood-opacity=".45"/>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="10" stdDeviation="14" flood-color="#020617" flood-opacity=".55"/>
     </filter>
     <style>
-      .title{font:700 54px 'Segoe UI',Verdana,sans-serif;letter-spacing:6px}
+      .ttl{font:700 60px 'Segoe UI',Verdana,sans-serif;letter-spacing:7px}
       .sub{font:600 20px 'Segoe UI',Verdana,sans-serif;letter-spacing:3px}
-      .small{font:500 18px 'Segoe UI',Verdana,sans-serif;letter-spacing:2px}
-      .scan{animation:scan 6s linear infinite}
-      .pulse{animation:pulse 2.6s ease-in-out infinite}
-      .float{animation:float 4s ease-in-out infinite}
-      .float2{animation:float 5s ease-in-out infinite .6s}
+      .txt{font:500 18px 'Segoe UI',Verdana,sans-serif;letter-spacing:1.6px}
+      .mono{font:700 18px Consolas,'Courier New',monospace;letter-spacing:2px}
+      .scan{animation:scan 6.8s linear infinite}
+      .pulse{animation:pulse 2.4s ease-in-out infinite}
       .blink{animation:blink 1.2s step-end infinite}
-      .bar1{animation:bar 2.4s ease-in-out infinite}
-      .bar2{animation:bar 2.4s ease-in-out infinite .35s}
-      .bar3{animation:bar 2.4s ease-in-out infinite .7s}
-      .bar4{animation:bar 2.4s ease-in-out infinite 1.05s}
-      @keyframes scan{0%{transform:translateX(-220px)}100%{transform:translateX(1220px)}}
-      @keyframes pulse{0%,100%{opacity:.55}50%{opacity:1}}
-      @keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-10px)}}
+      .float{animation:float 4.6s ease-in-out infinite}
+      @keyframes scan{0%{transform:translateX(-240px)}100%{transform:translateX(1240px)}}
+      @keyframes pulse{0%,100%{opacity:.6}50%{opacity:1}}
       @keyframes blink{50%{opacity:0}}
-      @keyframes bar{0%,100%{transform:scaleY(.45)}50%{transform:scaleY(1)}}
+      @keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-7px)}}
     </style>
   </defs>
-  <rect width="1200" height="320" rx="24" fill="url(#bg)"/>
-  <g opacity=".22">
-    <path d="M0 250H1200" stroke="#6ee7ff" stroke-width="2"/>
-    <path d="M0 220H1200" stroke="#6ee7ff" stroke-width="1.5"/>
-    <path d="M0 190H1200" stroke="#6ee7ff" stroke-width="1.2"/>
-    <path d="M0 160H1200" stroke="#6ee7ff" stroke-width="1"/>
-    <path d="M0 130H1200" stroke="#6ee7ff" stroke-width=".8"/>
-    <path d="M120 0V320M240 0V320M360 0V320M480 0V320M600 0V320M720 0V320M840 0V320M960 0V320M1080 0V320" stroke="#6ee7ff" stroke-width=".8"/>
+  <rect width="1200" height="360" rx="26" fill="url(#bg)"/>
+  <g opacity=".16">
+    <path d="M0 300H1200M0 260H1200M0 220H1200M0 180H1200M0 140H1200M0 100H1200" stroke="#67e8f9" stroke-width="1.1"/>
+    <path d="M120 0V360M240 0V360M360 0V360M480 0V360M600 0V360M720 0V360M840 0V360M960 0V360M1080 0V360" stroke="#67e8f9" stroke-width=".8"/>
   </g>
-  <g class="scan" opacity=".22">
-    <rect x="0" y="0" width="180" height="320" fill="url(#gridGlow)"/>
+  <g class="scan" opacity=".14">
+    <rect x="0" y="0" width="170" height="360" fill="#67e8f9"/>
   </g>
-  <g filter="url(#soft)">
-    <rect x="58" y="50" width="700" height="162" rx="22" fill="#0f172acc" stroke="#7dd3fc44"/>
-    <text x="92" y="112" class="title" fill="url(#titleGlow)">DAVEMANUJ</text>
-    <text x="94" y="148" class="sub" fill="#dbeafe">INDIE GAME DEVELOPER  •  FRONTEND ENGINEER</text>
-    <text x="94" y="180" class="small" fill="#93c5fd">Gameplay systems, animated UI, practical tools, clean execution.</text>
-    <text x="94" y="207" class="small blink" fill="#f9a8d4">PRESS START TO BUILD SOMETHING ALIVE</text>
+  <g filter="url(#shadow)">
+    <rect x="48" y="48" width="694" height="198" rx="24" fill="#0b1225cc" stroke="#7dd3fc44"/>
+    <text x="84" y="118" class="ttl" fill="url(#title)">DAVEMANUJ</text>
+    <text x="86" y="156" class="sub" fill="#dbeafe">BACKEND ENGINEER  •  SYSTEMS BUILDER  •  GAME DEVELOPER</text>
+    <text x="86" y="192" class="txt" fill="#93c5fd">Precision systems, game-dev instincts, and infrastructure that stays sharp under load.</text>
+    <text x="86" y="222" class="mono blink" fill="#f9a8d4">BOOT STATUS :: ONLINE</text>
   </g>
-  <g transform="translate(855 64)" class="float">
-    <rect x="0" y="0" width="238" height="142" rx="18" fill="#081120cc" stroke="#67e8f9" stroke-opacity=".45"/>
-    <rect x="18" y="18" width="202" height="74" rx="10" fill="#0f1b31"/>
-    <path d="M32 78L60 58 85 69 112 40 138 50 168 30 206 46" fill="none" stroke="#6ee7ff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-    <circle cx="60" cy="58" r="4" fill="#6ee7ff"/>
-    <circle cx="112" cy="40" r="4" fill="#8b5cf6"/>
-    <circle cx="168" cy="30" r="4" fill="#f472b6"/>
-    <text x="18" y="114" class="small" fill="#e2e8f0">SYSTEMS  /  FEEL  /  SHIP</text>
+  <g transform="translate(58 268)">
+    <rect width="220" height="54" rx="15" fill="#0f172acc" stroke="#38bdf8" stroke-opacity=".42"/>
+    <text x="16" y="22" class="txt" fill="#bae6fd">PLAYER HUD</text>
+    <text x="16" y="40" class="mono" fill="#fff">LVL 12 | BACKEND | SYSTEMS</text>
   </g>
-  <g transform="translate(846 214)" opacity=".95">
-    <rect x="0" y="0" width="14" height="46" rx="5" fill="#67e8f9" class="bar1"/>
-    <rect x="22" y="-10" width="14" height="56" rx="5" fill="#60a5fa" class="bar2"/>
-    <rect x="44" y="-20" width="14" height="66" rx="5" fill="#8b5cf6" class="bar3"/>
-    <rect x="66" y="-2" width="14" height="48" rx="5" fill="#f472b6" class="bar4"/>
+  <g transform="translate(294 268)">
+    <rect width="224" height="54" rx="15" fill="#0f172acc" stroke="#818cf8" stroke-opacity=".42"/>
+    <text x="16" y="22" class="txt" fill="#c7d2fe">PRIMARY STACK</text>
+    <text x="16" y="40" class="mono" fill="#fff">PYTHON | NODE | SQL | APIs</text>
   </g>
-  <g transform="translate(938 218)" class="float2">
-    <rect x="0" y="0" width="134" height="42" rx="21" fill="#111827cc" stroke="#f472b6" stroke-opacity=".42"/>
-    <text x="18" y="27" class="small" fill="#fdf2f8">GAME FEEL</text>
+  <g transform="translate(534 268)">
+    <rect width="208" height="54" rx="15" fill="#0f172acc" stroke="#f472b6" stroke-opacity=".42"/>
+    <text x="16" y="22" class="txt" fill="#fbcfe8">CORE TRAIT</text>
+    <text x="16" y="40" class="mono" fill="#fff">SILENT  •  SHARP  •  STABLE</text>
+  </g>
+  <g class="float" filter="url(#shadow)">
+    <path d="M870 270C916 248 945 214 956 171C968 125 985 94 1028 77C1063 64 1109 71 1146 94C1115 105 1095 123 1082 151C1061 197 1021 235 951 274Z" fill="#081120d9" stroke="#6ee7ff44"/>
+    <circle cx="1022" cy="96" r="18" fill="#0b1225"/>
+    <path d="M1001 118C1010 102 1036 101 1046 118L1064 148C1074 164 1076 185 1068 204L1051 245H995L978 203C970 185 972 165 982 149Z" fill="#0b1225"/>
+    <path d="M995 142L1044 142 1064 248 977 248Z" fill="#101a30"/>
+    <path d="M998 96C1009 79 1036 78 1047 96" fill="none" stroke="#7dd3fc" stroke-width="3"/>
+    <path d="M1040 106L1148 182" stroke="url(#blade)" stroke-width="8" stroke-linecap="round"/>
+    <path d="M1040 106L1148 182" stroke="#fff" stroke-opacity=".4" stroke-width="2" stroke-linecap="round"/>
+    <circle cx="1040" cy="106" r="8" fill="#f472b6"/>
+    <path d="M1128 168L1158 154 1168 168 1140 188Z" fill="#0f172a"/>
+    <path d="M880 76H954M864 112H944M850 148H933M840 184H924M858 220H952" stroke="#67e8f9" stroke-opacity=".45" stroke-width="2"/>
+    <path d="M852 76H872M836 112H856M822 148H842M812 184H832M830 220H850" stroke="#f472b6" stroke-opacity=".5" stroke-width="2"/>
   </g>
 </svg>
