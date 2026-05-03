@@ -6,7 +6,7 @@
   <img src="./giphy.gif" alt="Animated header loop" width="78%">
 </p>
 
-<h1 align="center">DAVEMANUJ</h1>
+
 <p align="center"><strong>Backend Engineer • Systems Builder • Game Developer</strong></p>
 
 <p align="center">
@@ -120,17 +120,8 @@ Gamified study app designed around momentum, fast loops, and repeatable progress
 > ship work that feels sharp
 ```
 
-## Status Screen
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DAVEMANUJ&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DAVEMANUJ&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages">
-</p>
 
-## Connect
-
-- GitHub: https://github.com/DAVEMANUJ
-- Repositories: https://github.com/DAVEMANUJ?tab=repositories
 
 ---
 
