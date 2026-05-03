@@ -1,130 +1,128 @@
 <p align="center">
-  <img src="./assets/mario-header.svg" alt="DAVEMANUJ Mario portfolio banner" width="100%">
-</p>
-
-<h1 align="center">DAVEMANUJ</h1>
-<p align="center"><strong>Indie game developer • frontend engineer • systems builder</strong></p>
-
-<p align="center">
-  <a href="https://davemanuj.github.io/DAVEMANUJ/"><img alt="Launch Portfolio" src="https://img.shields.io/badge/Launch-Portfolio-f7b500?style=for-the-badge"></a>
-  <a href="https://github.com/DAVEMANUJ?tab=repositories"><img alt="View Projects" src="https://img.shields.io/badge/View-Projects-1f6feb?style=for-the-badge"></a>
-  <a href="https://github.com/DAVEMANUJ"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-DAVEMANUJ-24292f?style=for-the-badge"></a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:66d9ff,35:5b8cff,70:ff5ea8,100:ffb347&text=DAVEMANUJ&fontAlign=50&fontAlignY=38&desc=Indie%20Game%20Developer%20%E2%80%A2%20Frontend%20Engineer%20%E2%80%A2%20Systems%20Builder&descAlign=50&descAlignY=58&fontColor=ffffff&animation=fadeIn" alt="DAVEMANUJ header">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Game%20Feel-red?style=flat-square">
-  <img src="https://img.shields.io/badge/Engine-Unity%206-black?style=flat-square">
-  <img src="https://img.shields.io/badge/Frontend-Motion%20UI-0ea5e9?style=flat-square">
-  <img src="https://img.shields.io/badge/Backend-Node%20%2B%20Python-16a34a?style=flat-square">
-  <img src="https://img.shields.io/badge/AI-Useful%20Tools-f97316?style=flat-square">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2600&pause=900&color=66D9FF&center=true&vCenter=true&width=900&lines=Building+games+that+feel+alive;Designing+frontend+systems+with+motion;Shipping+tools+with+real+utility;Arcade+energy+%2B+production+discipline" alt="Typing intro">
 </p>
 
-## Play The Portfolio
+<p align="center">
+  <a href="https://github.com/DAVEMANUJ?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-Open-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="Projects"></a>
+  <a href="https://github.com/DAVEMANUJ"><img src="https://img.shields.io/badge/GITHUB-Profile-1d4ed8?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+</p>
 
-The Mario-mode portfolio site lives here:
+<p align="center">
+  <img src="https://img.shields.io/badge/UNITY-Gameplay-black?style=flat-square&logo=unity&logoColor=white" alt="Unity">
+  <img src="https://img.shields.io/badge/C%23-Systems-7c3aed?style=flat-square&logo=csharp&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/PYTHON-Tools-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/JAVA-Android-f97316?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/REACT-Motion_UI-06b6d4?style=flat-square&logo=react&logoColor=white" alt="React">
+  <img src="https://img.shields.io/badge/AI-Useful_Not_Fake-ef4444?style=flat-square" alt="AI">
+</p>
 
-### **[davemanuj.github.io/DAVEMANUJ](https://davemanuj.github.io/DAVEMANUJ/)**
+---
 
-This repo now has two modes:
-
-- `GitHub Pages mode`: serves the static portfolio from `index.html`
-- `Live backend mode`: serves the same site through a lightweight Node server and feeds the frontend from `data/profile.json`
-
-## What Changed
-
-- Mario-only visual direction
-- Project section rebuilt as a block world
-- Mario now runs across the project blocks
-- Frontend can fetch live portfolio data from `/api/profile`
-- Static fallback still works on GitHub Pages
-
-## Run It Locally With Backend
-
-```bash
-npm start
-```
-
-Then open:
+## PLAYER PROFILE
 
 ```text
-http://127.0.0.1:3000
+NAME      :: DAVEMANUJ
+CLASS     :: Indie Builder / Game Dev / Frontend Engineer
+STYLE     :: Arcade energy + anime-tech flair + clean execution
+SPECIAL   :: Game feel, motion UI, practical full-stack systems
+MISSION   :: Build things that look alive and play well
 ```
 
-The server will:
+I like products that move with intent.
 
-- serve `index.html`
-- expose `GET /api/profile`
-- load content from `data/profile.json`
+That usually means:
 
-## GitHub Pages Setup
+- gameplay logic with rhythm and clarity
+- frontend work with motion, contrast, and personality
+- tools that solve real problems instead of demoing hype
+- software that borrows pacing and feedback from games
 
-If the site is not published yet:
+---
 
-1. Open `Settings`
-2. Open `Pages`
-3. Set `Build and deployment` to `Deploy from a branch`
-4. Select branch `main`
-5. Select folder `/ (root)`
-6. Save
-
-Leave `Custom domain` empty unless you own a real domain.
-
-## Who I Am
-
-I build games, interfaces, and tools with the same priorities:
-
-- strong feedback
-- readable systems
-- sharp motion
-- practical shipping discipline
-
-Most of my work sits where these overlap:
-
-- Unity gameplay systems
-- animation-heavy frontend engineering
-- Python tooling and AI-assisted workflows
-- game-feel driven product design
-
-## Featured Projects
+## MAIN QUESTS
 
 ### TypeStrike
-Typing arcade shooter built in Unity with escalating pressure and score-driven pacing.
+Typing arcade shooter built in Unity with escalating pace, score pressure, and satisfying combat rhythm.
 
 ### AniCast
-Animated Android weather companion with live-condition driven character behavior.
+Animated Android weather companion where character behavior shifts with live weather conditions.
 
 ### SkillGenome
-AI-powered roadmap builder that turns resumes and GitHub data into skill analysis and learning paths.
+AI-powered skill analysis and roadmap builder that turns resumes and GitHub data into structured growth paths.
 
 ### SwiftStudy
-Gamified study app built around momentum, short loops, and repeatable progress.
+Gamified study app designed around momentum, fast loops, and repeatable progression.
 
-## Stack
+---
+
+## LOADOUT
+
+### Game Dev
 
 - Unity 6
 - C#
+- TextMeshPro
+- gameplay scripting
+- UI and interaction tuning
+
+### Frontend
+
+- HTML
+- CSS
+- JavaScript
+- React
+- TypeScript
+- animation-heavy interface work
+
+### Backend and Tools
+
 - Python
-- Java
-- HTML / CSS / JavaScript
-- React / TypeScript
+- Flask
 - Node
-- Flask / SQLite
-- spaCy / KeyBERT / Transformers
+- SQLite
+- Java
+- PowerShell
 
-## Repo Layout
+### AI and Data
 
-- `index.html` — GitHub Pages entrypoint
-- `profile.html` — standalone copy of the portfolio page
-- `server.js` — lightweight backend server
-- `data/profile.json` — live portfolio content source
-- `assets/mario-header.svg` — animated GitHub-safe README banner
+- spaCy
+- KeyBERT
+- Sentence Transformers
+- document parsing workflows
+- recommendation and roadmap generation
 
-## Links
+---
 
-- Portfolio: https://davemanuj.github.io/DAVEMANUJ/
+## DEV PHILOSOPHY
+
+- prototype fast
+- polish hard
+- keep systems readable
+- make feedback immediate
+- ship useful work with style
+
+---
+
+## STATUS SCREEN
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DAVEMANUJ&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DAVEMANUJ&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages">
+</p>
+
+---
+
+## CONNECT
+
 - GitHub: https://github.com/DAVEMANUJ
 - Repositories: https://github.com/DAVEMANUJ?tab=repositories
 
 ---
 
-<p align="center"><strong>Build things that feel alive.</strong></p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=80&color=0:0f172a,50:1d4ed8,100:ff5ea8&text=Build%20Things%20That%20Feel%20Alive&fontColor=ffffff&fontSize=24&animation=twinkling" alt="Footer banner">
+</p>
